@@ -248,4 +248,8 @@ data/*
 
 cleaned_data/*
 
+pickles/*
+
+catboost_info/*
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,jupyternotebooks,python
